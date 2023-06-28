@@ -15,4 +15,4 @@ Lucas de França da Silva
 Joaquin Eiriz
 
 URL Landing Page: https://sites.google.com/view/projetopmihealthy/inicio
-URL Figma : https://www.figma.com/file/cpqoeMkQQKRBEDCa0MymEP/Esbo%C3%A7o?node-id=0%3A1
+https://www.figma.com/file/cpqoeMkQQKRBEDCa0MymEP/Esbo%C3%A7o?node-id=0%3A1
