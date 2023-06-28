@@ -1,6 +1,6 @@
 # PMI-Healthy
 
-Nicho: Crianças (5 a 12)
+Nicho: Crianças (5 a 12 anos)
 
 Proposta de valor: Gamificação de atividades físicas, alimentação saudável e leitura para gerar interesse das crianças.
 
@@ -10,9 +10,8 @@ Solução: O aplicativo oferece jogos e recompensas digitais para estimular cria
 
 Equipe:
 
-Lucas de França da Silva
-
-Joaquin Eiriz
+1. Lucas de França da Silva
+2. Joaquin Eiriz
 
 URL Landing Page: https://sites.google.com/view/projetopmihealthy/inicio
 https://www.figma.com/file/cpqoeMkQQKRBEDCa0MymEP/Esbo%C3%A7o?node-id=0%3A1
