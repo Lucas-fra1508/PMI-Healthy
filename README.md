@@ -13,5 +13,5 @@ Equipe:
 1. Lucas de França da Silva
 2. Joaquin Eiriz
 
-Landing Page: [https://sites.google.com/view/projetopmihealthy/
+Landing Page: https://sites.google.com/view/projetopmihealthy/
 https://www.figma.com/file/cpqoeMkQQKRBEDCa0MymEP/Esbo%C3%A7o?node-id=0%3A1
